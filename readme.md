@@ -31,7 +31,19 @@ It demonstrates Git workflow including branching, merging, and conflict resoluti
 
 
 
+
+
+
 <img width="1023" height="131" alt="image" src="https://github.com/user-attachments/assets/db51dfc2-6409-4e17-953f-c6faee0bafd3" />
+
+
+
+
+
+
+
+<img width="898" height="505" alt="image" src="https://github.com/user-attachments/assets/f78ed68f-a25c-4fc9-87c4-c341570d6e3c" />
+
 
 
 
